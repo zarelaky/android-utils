@@ -1,8 +1,8 @@
 
-#android utils
+# android utils
     some utils for hacking
 
-##aimg
+## aimg
     utility for extrace android image
 
 
